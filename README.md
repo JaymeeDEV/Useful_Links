@@ -40,3 +40,6 @@ https://developer.mozilla.org/bm/docs/Web/JavaScript
 
 ## Python TDD
 https://jasmine.github.io/
+
+## Ruby Understanding OOP
+https://medium.com/launch-school/the-basics-of-oop-ruby-26eaa97d2e98
